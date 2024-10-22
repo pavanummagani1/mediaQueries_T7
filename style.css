@@ -5,6 +5,7 @@
 }
 @media screen and (width<=700px){
     .container{
+        margin: 30px;
         width: 100px;
         padding: 10px;
         background-color: aquamarine;
@@ -13,6 +14,7 @@
 }
 @media screen and (width>700px){
     .container{
+        margin: 30px;
         width: 200px;
         padding: 30px;
         background-color: aqua;
